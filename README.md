@@ -23,13 +23,13 @@ Soy estudiante 👨‍🎓. Me gusta aprender cosas nuevas, el futsal ⚽, la qu
 - Química
 - Matemáticas
 - Aprender cosas nuevas
+- IA generativa
 
 ---
 
 ## 📬 Contacto
 
-**¡Conectemos!** (Recuerda reemplazar "#" con el enlace a tu perfil)
+**¡Conectemos!**
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter&logoColor=white&link=TU_URL_DE_TWITTER)](https://x.com/TU_USUARIO)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=TU_URL_DE_LINKEDIN)](https://www.linkedin.com/in/TU_USUARIO/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/feed/)](https://www.linkedin.com/feed/)
 

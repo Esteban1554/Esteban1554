@@ -1,23 +1,37 @@
-# Hola, soy Esteban David Loaiza Tique 👋
-
-Soy estudiante 👨‍🎓. Me gusta aprender cosas nuevas, el futsal ⚽, la química 🧪 y las matemáticas 🧮.
+# ¡Hola! Soy Esteban David Loaiza Tique 👋
 
 ---
 
-## 💻 Lenguajes y Herramientas que me interesan
+### 👨‍💻 Sobre Mí
 
-- <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white"  height="20"/> &nbsp; <img alt="R" src="https://img.shields.io/badge/R-%23276DC3.svg?&style=flat&logo=r&logoColor=white" height="20"/> &nbsp;<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white" height="20"/> &nbsp;<img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=flat&logo=latex&logoColor=white" height="20" />&nbsp;<img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=flat&logo=markdown&logoColor=white" height="20" />
+Soy un estudiante de [Ingieneria de Petroleos] en [Fundacion Universidad de America], con una gran pasión por la intersección entre la ciencia y la tecnología. Me fascina cómo la **Inteligencia Artificial Generativa** puede resolver problemas complejos y estoy constantemente explorando nuevas librerías de Python para aplicarlas en proyectos de **química** y **matemáticas**.
 
----
-
-## 🐍 Librerías de Python
-
-- <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat&logo=Jupyter&logoColor=white" height="20" />&nbsp;
-<img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%230095D5.svg?&style=flat&logo=numpy&logoColor=white" height="20"/>&nbsp;<img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white" height="20" />&nbsp;<img alt="SymPy" src="https://img.shields.io/badge/SymPy%20-%23239120.svg?&style=flat&logo=sympy&logoColor=white" height="20" /> &nbsp;<img alt="scipy" src="https://img.shields.io/badge/scipy%20-%23117AC9.svg?&style=flat&logo=scipy&logoColor=white" height="20" />&nbsp;<img alt="plotly" src="https://img.shields.io/badge/plotly%20-%233B4D98.svg?&style=flat&logo=plotly&logoColor=white" height="20" />&nbsp;<img alt="scikit" src="https://img.shields.io/badge/scikit%20-%23FF9900.svg?&style=flat&logo=scikit-learn&logoColor=white" height="20" />&nbsp;<img alt="tensorflow" src="https://img.shields.io/badge/tensorflow%20-%23FF6F00.svg?&style=flat&logo=tensorflow&logoColor=white" height="20" />&nbsp;<img alt="keras" src="https://img.shields.io/badge/keras%20-%23D00000.svg?&style=flat&logo=keras&logoColor=white" height="20" />
+- 🌱 Estoy aprendiendo sobre [Codigos Python, Java].
+- 😄 Dato curioso: ¡Me encanta jugar futsal como portero en mi tiempo libre!
 
 ---
 
-## 🔥 Intereses
+### 🛠️ Lenguajes y Herramientas
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+**Librerías de Python:**
+
+![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+
+---
+
+### 🔥 Intereses
 
 - Futsal
 - Química
@@ -27,9 +41,19 @@ Soy estudiante 👨‍🎓. Me gusta aprender cosas nuevas, el futsal ⚽, la qu
 
 ---
 
-## 📬 Contacto
+### 📊 Mis Estadísticas de GitHub
 
-**¡Conectemos!**
+<!-- Reemplaza `Esteban1554` con tu nombre de usuario de GitHub en los enlaces -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Esteban1554&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de Esteban"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esteban1554&layout=compact&langs_count=8&theme=dark" alt="Lenguajes más usados por Esteban"/>
+</p>
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/feed/)](https://www.linkedin.com/feed/)
+---
+
+### 📫 ¡Conectemos!
+
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/tu-usuario]([https://www.linkedin.com/in/tu-usuario](https://www.linkedin.com/in/esteban-david-tique-763b6636b/))
+- 📧 **Email:** [tu-email@example.com](estebandavidtique@gmail.com)
 
